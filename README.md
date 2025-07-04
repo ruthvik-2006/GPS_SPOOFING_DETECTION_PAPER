@@ -29,8 +29,6 @@ Autonomous vehicles rely heavily on **GPS data** for location and navigation. Ho
 2. The cleaned data is passed to a **RNN-LSTM network** to detect movement trends.
 3. The final output is classified as "attack" or "safe" using a **Random Forest** model.
 
-![Architecture Diagram](architecture.png) *(Optional if you have one)*
-
 ---
 
 ## 📊 Performance Summary
